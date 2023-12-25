@@ -13,7 +13,6 @@ Notebooks: Jupyter notebooks detailing data exploration, preprocessing steps, mo
 Scripts: Python scripts for specific tasks like data preprocessing, model training, and evaluation.
 Documentation: Explanation of methodologies, algorithms used, and insights gained from the models.
 How to Use:
-Clone the Repository: git clone https://github.com/username/brain-tumor-detection.git
 Install Dependencies: pip install -r requirements.txt
 Explore Notebooks: Open and run Jupyter notebooks to understand the project flow and methodology.
 Train Models: Use provided scripts or notebooks to train models on your dataset or experiment with hyperparameters.
